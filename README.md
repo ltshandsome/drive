@@ -28,7 +28,7 @@ The script will use D.bin as the default file that will be deleted in step 3 and
 
 Example:
 
-![image.png](https://assets.leetcode.com/users/images/bb37bf04-c894-4d23-adf4-12002f36733a_1746709422.565565.png)
+![image.png](pictures/figure1.png)
 
 
 Another valid command is to pass the filename we want to delete & restore as a parameter:
@@ -38,4 +38,4 @@ $ ./demo.sh A.bin
 
 Example: 
 
-![image.png](https://assets.leetcode.com/users/images/03f5f20f-6c52-488d-b71e-fcb594852de9_1746709399.682148.png)
+![image.png](pictures/figure2.png)
